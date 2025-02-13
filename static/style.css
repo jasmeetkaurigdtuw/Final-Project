@@ -1,0 +1,58 @@
+/* Reset CSS */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #4CAF50; /* Green */
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #4CAF50; /* Green */
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.sidebar {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  border-radius: 0 10px 10px 0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.user-input {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.prediction {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #4CAF50; /* Green */
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  background-color: #4CAF50; /* Green */
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+}

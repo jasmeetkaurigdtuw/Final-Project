@@ -1,0 +1,9 @@
+openai
+pandas
+sqlalchemy
+matplotlib
+numpy
+seaborn
+scikit-learn
+streamlit
+psycopg2==2.9.2
