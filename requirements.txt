@@ -6,4 +6,4 @@ numpy
 seaborn
 scikit-learn
 streamlit
-psycopg2-binary
+psycopg2==2.9.2
